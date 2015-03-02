@@ -1,1 +1,30 @@
-body{ background: #EAEAEA; }
+#calculadora
+{
+	width:100%;
+}
+
+#calculadora tr td
+{
+padding: 0px;
+font-family: trebuchet, verdana, arial;
+color: #000000;
+font-size: 18px;
+}
+
+#resultado_calculadora{
+font-family: trebuchet, verdana, arial;
+font-weight: bold;
+resize:none;
+}
+
+
+.no-style
+{
+background: #FFFFFF;
+border: 0;
+}
+.no-style:hover
+{
+background: #FFFFFF;
+border: 0;
+}
