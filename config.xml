@@ -4,6 +4,7 @@
     id        = "com.phonegap.calculadora"
     version   = "1.0.0">
 
+<icon src="imgs/icon.png" />
 <name>Calculadora</name>
 
 <description>
