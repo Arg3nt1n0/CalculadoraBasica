@@ -28,3 +28,16 @@ border: 0;
 background: #FFFFFF;
 border: 0;
 }
+h1{ color:#333; }
+h6{ color:#666; }
+
+.ui-btn-active 
+{
+	color:#666 !important;
+    background: none !important; 
+    background-color: #EAEAEA !important; 
+    text-shadow: 0 /*{a-bup-shadow-x}*/ 
+                 1px /*{a-bup-shadow-y}*/ 
+                 0 /*{a-bup-shadow-radius}*/ 
+                 #ffffff /*{a-bup-shadow-color}*/;  
+}
