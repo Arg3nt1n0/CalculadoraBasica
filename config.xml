@@ -2,16 +2,16 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
     id        = "com.phonegap.calculadora"
-    version   = "1.0.0">
-
-<icon src="https://cloud.githubusercontent.com/assets/10057791/6450947/a4cae6ec-c0e8-11e4-8d00-b39237363edc.png" />
+    version   = "1.0.1">
+	
+<icon src="imgs/icon.png" />
 <name>Calculadora</name>
 
 <description>
 Calculadora Básica.
 </description>
 
-<author href="clubsolaris.com/JonathanArgumedo" email="gowpga@hotmail.com">
+<author href="clubsolaris.com/Apps" email="gowpga@hotmail.com">
 Jonathan Argumedo
 </author>
 
